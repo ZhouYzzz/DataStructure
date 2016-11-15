@@ -21,6 +21,26 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
+		<key>PA2_Alarm.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>PA2_Queap.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>PA2_Rebuild.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>PA2_Train.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -35,6 +55,26 @@
 			<true/>
 		</dict>
 		<key>785FE6811D90FB8300300DCF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>789705D41DD78C5500B07F6B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>78C7EC761DD87E5000CF0D68</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>78F6C2EE1DCCEABC00831011</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>78F6C2FA1DCD0DA900831011</key>
 		<dict>
 			<key>primary</key>
 			<true/>
